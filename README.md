@@ -24,7 +24,8 @@ from the solved equilibria.
 
 ## Data and license
 
-The code is released under the MIT License (`LICENSE`).
+The code is released under the MIT License (`LICENSE`). The input workbooks are
+not covered by it.
 
 The input workbooks are derived aggregates of **EXIOBASE 3** (Stadler et al.,
 2018, https://doi.org/10.5281/zenodo.5589597), licensed CC BY-SA 4.0. They are
