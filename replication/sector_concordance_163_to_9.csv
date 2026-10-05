@@ -1,0 +1,164 @@
+industry,sector
+Manufacture of basic iron and steel and of ferro-alloys and first products thereof,STL
+Re-processing of secondary steel into new steel,STL
+Casting of metals,STL
+"Manufacture of cement, lime and plaster",CEM
+Re-processing of ash into clinker,CEM
+Aluminium production,ALU
+Re-processing of secondary aluminium into new aluminium,ALU
+N-fertiliser,FER
+P- and other fertiliser,FER
+Production of electricity by coal,ELF
+Production of electricity by gas,ELF
+Production of electricity by nuclear,ELR
+Production of electricity by hydro,ELR
+Production of electricity by wind,ELR
+Production of electricity by petroleum and other oil derivatives,ELF
+Production of electricity by biomass and waste,ELR
+Production of electricity by solar photovoltaic,ELR
+Production of electricity by solar thermal,ELR
+"Production of electricity by tide, wave, ocean",ELR
+Production of electricity by Geothermal,ELR
+Production of electricity nec,ELR
+Transmission of electricity,OTH
+Distribution and trade of electricity,OTH
+Petroleum Refinery,REF
+Manufacture of coke oven products,REF
+Processing of nuclear fuel,REF
+Chemicals nec,CHM
+"Plastics, basic",CHM
+Re-processing of secondary plastic into new plastic,CHM
+Manufacture of rubber and plastic products (25),CHM
+Pulp,OTH
+Re-processing of secondary paper into new pulp,OTH
+Paper,OTH
+"Publishing, printing and reproduction of recorded media (22)",OTH
+Manufacture of glass and glass products,OTH
+Re-processing of secondary glass into new glass,OTH
+Manufacture of ceramic goods,OTH
+"Manufacture of bricks, tiles and construction products, in baked clay",OTH
+Manufacture of other non-metallic mineral products n.e.c.,OTH
+Precious metals production,OTH
+Re-processing of secondary preciuos metals into new preciuos metals,OTH
+"Lead, zinc and tin production",OTH
+"Re-processing of secondary lead into new lead, zinc and tin",OTH
+Copper production,OTH
+Re-processing of secondary copper into new copper,OTH
+Other non-ferrous metal production,OTH
+Re-processing of secondary other non-ferrous metals into new other non-ferrous metals,OTH
+"Manufacture of fabricated metal products, except machinery and equipment (28)",OTH
+Mining of coal and lignite; extraction of peat (10),REF
+"Extraction of crude petroleum and services related to crude oil extraction, excluding surveying",REF
+"Extraction of natural gas and services related to natural gas extraction, excluding surveying",REF
+"Extraction, liquefaction, and regasification of other petroleum and gaseous materials",REF
+Mining of uranium and thorium ores (12),OTH
+Mining of iron ores,OTH
+Mining of copper ores and concentrates,OTH
+Mining of nickel ores and concentrates,OTH
+Mining of aluminium ores and concentrates,OTH
+Mining of precious metal ores and concentrates,OTH
+"Mining of lead, zinc and tin ores and concentrates",OTH
+Mining of other non-ferrous metal ores and concentrates,OTH
+Quarrying of stone,OTH
+Quarrying of sand and clay,OTH
+"Mining of chemical and fertilizer minerals, production of salt, other mining and quarrying n.e.c.",OTH
+Processing of meat cattle,OTH
+Processing of meat pigs,OTH
+Processing of meat poultry,OTH
+Production of meat products nec,OTH
+Processing vegetable oils and fats,OTH
+Processing of dairy products,OTH
+Processed rice,OTH
+Sugar refining,OTH
+Processing of Food products nec,OTH
+Manufacture of beverages,OTH
+Manufacture of fish products,OTH
+Manufacture of tobacco products (16),OTH
+Manufacture of textiles (17),OTH
+Manufacture of wearing apparel; dressing and dyeing of fur (18),OTH
+"Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear (19)",OTH
+"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials (20)",OTH
+Re-processing of secondary wood material into new wood material,OTH
+Manufacture of machinery and equipment n.e.c. (29),OTH
+Manufacture of office machinery and computers (30),OTH
+Manufacture of electrical machinery and apparatus n.e.c. (31),OTH
+"Manufacture of radio, television and communication equipment and apparatus (32)",OTH
+"Manufacture of medical, precision and optical instruments, watches and clocks (33)",OTH
+"Manufacture of motor vehicles, trailers and semi-trailers (34)",OTH
+Manufacture of other transport equipment (35),OTH
+Manufacture of furniture; manufacturing n.e.c. (36),OTH
+Recycling of waste and scrap,OTH
+Recycling of bottles by direct reuse,OTH
+Construction (45),OTH
+Re-processing of secondary construction material into aggregates,OTH
+Cultivation of paddy rice,OTH
+Cultivation of wheat,OTH
+Cultivation of cereal grains nec,OTH
+"Cultivation of vegetables, fruit, nuts",OTH
+Cultivation of oil seeds,OTH
+"Cultivation of sugar cane, sugar beet",OTH
+Cultivation of plant-based fibers,OTH
+Cultivation of crops nec,OTH
+Cattle farming,OTH
+Pigs farming,OTH
+Poultry farming,OTH
+Meat animals nec,OTH
+Animal products nec,OTH
+Raw milk,OTH
+"Wool, silk-worm cocoons",OTH
+"Manure treatment (conventional), storage and land application",OTH
+"Manure treatment (biogas), storage and land application",OTH
+"Forestry, logging and related service activities (02)",OTH
+"Fishing, operating of fish hatcheries and fish farms; service activities incidental to fishing (05)",OTH
+Manufacture of gas; distribution of gaseous fuels through mains,REF
+Steam and hot water supply,OTH
+"Collection, purification and distribution of water (41)",OTH
+"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",OTH
+Retail sale of automotive fuel,OTH
+"Wholesale trade and commission trade, except of motor vehicles and motorcycles (51)",OTH
+"Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods (52)",OTH
+Hotels and restaurants (55),OTH
+Transport via railways,OTH
+Other land transport,OTH
+Transport via pipelines,OTH
+Sea and coastal water transport,OTH
+Inland water transport,OTH
+Air transport (62),OTH
+Supporting and auxiliary transport activities; activities of travel agencies (63),OTH
+Post and telecommunications (64),OTH
+"Financial intermediation, except insurance and pension funding (65)",OTH
+"Insurance and pension funding, except compulsory social security (66)",OTH
+Activities auxiliary to financial intermediation (67),OTH
+Real estate activities (70),OTH
+Renting of machinery and equipment without operator and of personal and household goods (71),OTH
+Computer and related activities (72),OTH
+Research and development (73),OTH
+Other business activities (74),OTH
+Public administration and defence; compulsory social security (75),OTH
+Education (80),OTH
+Health and social work (85),OTH
+Incineration of waste: Food,OTH
+Incineration of waste: Paper,OTH
+Incineration of waste: Plastic,OTH
+Incineration of waste: Metals and Inert materials,OTH
+Incineration of waste: Textiles,OTH
+Incineration of waste: Wood,OTH
+Incineration of waste: Oil/Hazardous waste,OTH
+"Biogasification of food waste, incl. land application",OTH
+"Biogasification of paper, incl. land application",OTH
+"Biogasification of sewage slugde, incl. land application",OTH
+"Composting of food waste, incl. land application",OTH
+"Composting of paper and wood, incl. land application",OTH
+"Waste water treatment, food",OTH
+"Waste water treatment, other",OTH
+Landfill of waste: Food,OTH
+Landfill of waste: Paper,OTH
+Landfill of waste: Plastic,OTH
+Landfill of waste: Inert/metal/hazardous,OTH
+Landfill of waste: Textiles,OTH
+Landfill of waste: Wood,OTH
+Activities of membership organisation n.e.c. (91),OTH
+"Recreational, cultural and sporting activities (92)",OTH
+Other service activities (93),OTH
+Private households with employed persons (95),OTH
+Extra-territorial organizations and bodies,OTH

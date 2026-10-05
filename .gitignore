@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+results/*
+!results/logs/
+results/logs/*
+!results/logs/.gitkeep
+new_version_paper/cbam_paper_updated/figures/*
+!new_version_paper/cbam_paper_updated/figures/.gitkeep
+new_version_paper/cbam_paper_updated/tables/*
+!new_version_paper/cbam_paper_updated/tables/.gitkeep
+*.log
+new_version_paper/cbam_paper_updated/graphical_abstract.*

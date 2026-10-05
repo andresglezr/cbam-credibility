@@ -1,0 +1,11 @@
+# Environment for the paper asset pipeline (new_version_paper/cbam_paper_updated/code:
+# figures.py, tables.py, graphical_abstract.py, build.py)
+# and compute_welfare.py. Python 3.12.6.
+pandas==2.2.2
+numpy==2.1.1
+matplotlib==3.10.1
+pyarrow==23.0.1
+openpyxl==3.1.0
+# Optional, only for document tooling (speaker script, PDF checks):
+PyMuPDF==1.27.2.2
+python-docx==1.2.0

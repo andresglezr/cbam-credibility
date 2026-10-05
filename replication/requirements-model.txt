@@ -1,0 +1,8 @@
+# Environment for solving the model (sinretencion.py and the run drivers).
+# Python 3.12.6. GAMSPy requires a GAMS installation with a PATH solver
+# license (we used GAMS 47 / PATH via the gamspy add-on license).
+gamspy==1.20.0
+pandas==3.0.1
+numpy==2.4.2
+openpyxl==3.1.5
+pyarrow==23.0.1
